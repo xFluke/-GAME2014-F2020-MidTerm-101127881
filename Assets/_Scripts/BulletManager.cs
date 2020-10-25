@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*
+Source File: BulletManager.cs
+Name: Miko Man
+ID: 101127881
+Date Last Modified: Oct 24 2020
+Description: Script for the Bullet Manager
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

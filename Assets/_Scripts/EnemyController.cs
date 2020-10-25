@@ -1,4 +1,14 @@
-﻿using System.Collections;
+﻿/*
+Source File: EnemyController.cs
+Name: Miko Man
+ID: 101127881
+Date Last Modified: Oct 24 2020
+Description: Controller Script for the Enemies.
+Revision History:
+    Oct 24: Modified script to work with landscape orientation
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*
+Source File: BulletFactory.cs
+Name: Miko Man
+ID: 101127881
+Date Last Modified: Oct 24 2020
+Description: A Factory for the Bullet class
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
